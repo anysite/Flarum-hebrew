@@ -2,7 +2,7 @@
     "name": "anysite/flarum-hebrew-copy",
     "type": "flarum-extension",
     "description": "תרגום רשמי לעברית.",
-    "homepage": "https://github.com/anysite/Flarum-hebrew",
+    "homepage": "https://github.com/anysite/Flarum-hebrew-copy",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
